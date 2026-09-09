@@ -1,4 +1,4 @@
-# 30s_shooting
+# 30s_shooter
 
 A fast-paced and exhilarating shooting game where each stage lasts just 30 seconds.
 
